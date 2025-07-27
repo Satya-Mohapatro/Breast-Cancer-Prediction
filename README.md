@@ -3,7 +3,7 @@
 A **Streamlit web application** to predict whether a breast tumor is **Malignant or Benign** using a **Logistic Regression model** trained on the Breast Cancer Wisconsin dataset.
 
 ---
-
+![SS](SS.png)
 ## 🚀 Features
 
 ✅ Predicts **Malignant (Cancerous)** or **Benign (Non-Cancerous)** tumor status  
